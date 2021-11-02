@@ -1,6 +1,6 @@
 # contact_selector
 
-A new flutter plugin project.
+A Flutter plugin for picking a contact from the address book.
 
 ## Getting Started
 
