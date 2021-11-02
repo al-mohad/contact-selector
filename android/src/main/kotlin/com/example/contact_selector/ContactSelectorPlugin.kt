@@ -1,4 +1,4 @@
-package com.example.contact_selector
+package com.intelpeaktech.contact_selector
 
 import androidx.annotation.NonNull
 

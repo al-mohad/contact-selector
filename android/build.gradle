@@ -1,4 +1,4 @@
-group 'com.example.contact_selector'
+group 'com.intelpeaktech.contact_selector'
 version '1.0-SNAPSHOT'
 
 buildscript {
